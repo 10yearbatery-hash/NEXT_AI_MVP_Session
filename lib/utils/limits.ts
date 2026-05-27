@@ -33,4 +33,4 @@ export const MAX_HISTORY_MESSAGES = 20;
 //
 // TODO SESSION 1-7 (선택): 0, 0.7, 1.5로 바꿔가며 답변이 어떻게 달라지는지 비교해보세요.
 //   같은 질문을 여러 번 보내보면 차이가 잘 보입니다.
-export const TEMPERATURE = 0.7;
+export const TEMPERATURE = 1.1;
